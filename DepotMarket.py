@@ -1,0 +1,11 @@
+DepotMarket=[('circle',2), ('triangle',4), ('square',14), ('cross',11), ('star',4), ('whot',20),
+ ('circle',4), ('triangle',1), ('sqaure',7), ('cross',14), ('star',8), ('whot',20),
+ ('circle',7), ('triangle',3), ('square',2), ('cross',3), ('star',2), ('whot',20),
+ ('circle',3), ('triangle',13), ('square',1), ('cross',2), ('star',5), ('whot',20),
+ ('circle',13), ('triangle',10), ('square',11), ('cross',5), ('star',3),
+ ('circle',12), ('triangle',14), ('square',15), ('cross',10), ('star',1),
+ ('circle',11), ('triangle',8), ('square',10), ('cross',17),
+ ('circle',14), ('triangle',7), ('square',13), ('cross',1),
+ ('circle',1), ('triangle',11),
+ ('circle',10),
+ ('circle',3)]
